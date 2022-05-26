@@ -1,0 +1,129 @@
+body{
+    font-family: 'nunito', sans-serif;
+}
+
+/*navigaion*/
+nav {
+    display: flex;
+    background-color: #FDFDFD;
+    justify-content: space-between;
+    height:50px;
+    padding:0px 40px;
+  }
+.navlink {
+    padding: 0px 15px;
+    background-color: #FDFDFD;
+    margin-left: 20px;
+    height: 100%;
+    display:flex;
+    align-items: center;
+    text-decoration: none;
+    color:black;
+    font-weight:bold; 
+}
+
+.leftnav{
+    display:flex;
+    height:50px;
+}
+
+.navsocialmedia{
+    margin-left: 20px; 
+    height: 50px;
+    width: auto;
+}
+.navlogo{
+    margin-right:200px;
+    height: 50px;
+    width: auto;
+}
+
+/*hero*/
+.hero{
+    display:flex;
+    background-color: #fdfdfd;
+    padding:50px;
+    justify-content: space-between;
+}
+.heroimg{
+    width: 600px;
+    height:500px;
+}
+
+.heroheading{
+    color:blue;
+}
+
+
+.submitbtn{
+    display: flex;
+    background-color: rgb(28, 75, 184);
+    color:white;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+.container{
+    position:relative; 
+}
+
+
+  
+.historyimg{
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    justify-content: center;
+    top:-20px;
+    padding:2rem;
+    transform: translate(1em,1em);
+    display:flex;
+    width:700px;
+    height:500px;
+}
+.histodyimgdscrp1{
+    background-color: #596A91;
+    height: 50px;
+    width: 1000px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left:70px;
+}
+.historyimg2{
+    display: flex;
+    height: 500px;
+    width: 400px;
+    margin-right: 50px;     
+    flex-direction: column;
+    justify-content: center;
+    transform: translate(1em,1em);
+    text-align: center;
+    padding-left:0px;
+    padding:2rem;
+}
+.histodyimgdscrp2{
+background-color: #596A91;
+height: 30px;
+width: 600px;
+color:white;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+padding-left:0px;
+}
+.footer{
+    padding-top: 10rem;
+}
+.form{
+    /* display:flex; */
+    background-color: #CECFE9;
+    width:100%;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding:5rem 5rem 5rem
+}
