@@ -90,6 +90,15 @@ nav {
     height: 400px;
     width: 600px;
 }
+.cramockupimg{
+    display: flex;
+    height: 300px;
+    width: 550px; 
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    padding-top:40px;
+}
 
 .casestudy2{
     display: flex;
@@ -102,6 +111,14 @@ nav {
     padding:2rem;
     transform: translate(1em,1em);
 }
+
+.vostoksosmockupimg{
+    height: 300px;
+    width: 500px;
+    margin-left:50px;
+    padding-top:40px;
+}
+
 .casestudydescription2 {
     background-color: #596A91;
     height: 250px;
@@ -153,7 +170,12 @@ nav {
     width: 600px;
     margin-left:50px;
 }
-
+.nomnomsmockupimg{
+    height: 400px;
+    width: 400px;
+    margin-left:100px; 
+    margin-top:10px;
+}
 
 
 
