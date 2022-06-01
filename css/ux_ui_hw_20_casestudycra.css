@@ -7,27 +7,16 @@ nav {
     padding-bottom: 10px;
   }
 .navlink {
+    display:flex;
     padding: 0px 15px;
     background-color: #FDFDFD;
-    margin-left: 20px;
+    margin-left: 200px;
     height: 100%;
-    display:flex;
+    
     align-items: center;
     text-decoration: none;
     color:black;
     font-weight:bold; 
-}
-.dropdownnav{
-    padding: 0px 15px;
-    background-color: #FDFDFD;
-    margin-left: 20px;
-    height: 100%;
-    display:flex;
-    align-items: center;
-    text-decoration: none;
-    color:black;
-    font-weight:bold;
-
 }
 
 .leftnav{
